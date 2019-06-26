@@ -5,7 +5,7 @@ class HelloGitClass
 {
 	public static void main(String str[])
 	{
-	syso("hello git");
+	system.out.println("hello git");
 	}
 
 }
