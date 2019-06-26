@@ -3,9 +3,9 @@ this is my first git...welcome to git singham..!!
 
 class HelloGitClass
 {
-	main()
-{
+	public static void main(String str[])
+	{
 	syso("hello git");
-}
+	}
 
 }
