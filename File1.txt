@@ -1,4 +1,4 @@
-this is my first git...welcome to git singham..!!
+//this is my first git...welcome to git singham..!!
 
 
 class HelloGitClass
@@ -10,7 +10,8 @@ class HelloGitClass
 }
 	public static void main(String str[])
 	{
-	
+	HelloGitClass obj= new HelloGitClass();
+obj.helloGit();
 	}
 
 }
