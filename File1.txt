@@ -3,9 +3,14 @@ this is my first git...welcome to git singham..!!
 
 class HelloGitClass
 {
+
+		helloGit(){
+
+		sysout("hello git ..welcome...")
+}
 	public static void main(String str[])
 	{
-	system.out.println("hello git");
+	
 	}
 
 }
