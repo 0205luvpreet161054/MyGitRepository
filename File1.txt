@@ -13,5 +13,9 @@ class HelloGitClass
 	HelloGitClass obj= new HelloGitClass();
 obj.helloGit();
 	}
+void myBigMethod()
+{
+sysout("has a method impl");
+}
 
 }
